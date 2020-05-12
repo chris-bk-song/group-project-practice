@@ -1,0 +1,62 @@
+body {
+  background-color: white;
+}
+
+img {
+  width: 400px;
+  height: 500px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: pink;
+  margin: 50px 0px;
+  font-size: 64px;
+  font-family: cursive;
+}
+
+
+.carousel-item {
+  border: 1px solid red;
+
+  /* display: flex; */
+  /* justify-content: center; */
+}
+
+.carousel-caption {
+  color: black;
+  font-weight: bold;
+}
+
+#generate-button {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+#button1 {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.container {
+  display: flex;
+}
+
+.card {
+  flex-direction: row;
+}
+
+#images {
+  width: 400px;
+  height: 500px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+
+}
